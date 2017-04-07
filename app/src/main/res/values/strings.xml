@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="button_name">Generate</string>
+    <string name="textview">Raja</string>
+    <string name="start_button">Start Test</string>
+    <string name="time_text">Time: 20 seconds</string>
+    <string name="time_finish_text">Time\'s UP</string>
+</resources>
